@@ -30,7 +30,7 @@ hash = "a747a0bb0548ef3b677671e5e60ac931bb2a45c212bfdb9a8b180cddb068ee87"
 
 [[files]]
 file = "config/desiredservers/desiredservers.json"
-hash = "12e8f94e050ebdc5bf075f77fb0baa0f2843d27106d1915655c3865ccc47821e"
+hash = "c760c61b862af95c34cbf713583860eb9e1f7d6922646c2577a67cd6048ba593"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
