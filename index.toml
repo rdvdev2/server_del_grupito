@@ -318,6 +318,11 @@ hash = "aa954cff1b2d2ad5d70bab7445f42214b324bb5203413dc474f5d032d897c330"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "9421355a24881292851803d45726a5aebce4c5a5863793d7d373565b4fceb1eb"
+metafile = true
+
+[[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
 hash = "a8c9353a4a5b4d08823f39e13dd10f04e1c884e5fa5aedae511a26d111a76d8a"
 metafile = true
