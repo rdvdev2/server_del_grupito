@@ -29,6 +29,10 @@ file = "config/bclib/server.json"
 hash = "a747a0bb0548ef3b677671e5e60ac931bb2a45c212bfdb9a8b180cddb068ee87"
 
 [[files]]
+file = "config/desiredservers/desiredservers.json"
+hash = "12e8f94e050ebdc5bf075f77fb0baa0f2843d27106d1915655c3865ccc47821e"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "426010af0b5de142fa8352bf183dc959c9af1c46ef380d383edd930d510a35f8"
 
