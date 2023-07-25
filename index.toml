@@ -57,6 +57,11 @@ hash = "c7330ba6abcb6f74e184ac970ff66d8efbea5cb3e4cd747b9d1ae14aaac9279e"
 metafile = true
 
 [[files]]
+file = "mods/altorigingui.pw.toml"
+hash = "7927fbd305ce22ed621321265d7de8ac231b4e0105fd918dd61173848b13936d"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
 metafile = true
@@ -409,6 +414,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "80e52c4c76edb7e19169870e10ac16e966396e5a8f1a430ca039f52ceea9e297"
+metafile = true
+
+[[files]]
+file = "mods/pv-addon-groups.pw.toml"
+hash = "98ec355436257a68b2b6a9066ade873e0675ca2b74aea0a3b3f9ef38ac6aadf1"
 metafile = true
 
 [[files]]
