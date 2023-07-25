@@ -22,7 +22,7 @@ hash = "6c374c2361f59dbbace6322200613773ec01d5fb6e8fb70ac5d89463e3631f05"
 
 [[files]]
 file = "config/bclib/recipes.json"
-hash = "53f59641dacd9f1b4f798e3400c6ef4dfe047e700dd8bf52cafd111d21f8d3d3"
+hash = "6836e5abe154f6806ed36e73107f043e5ef3f62ca9aa7cc796cc19f6b38eed99"
 
 [[files]]
 file = "config/bclib/server.json"
