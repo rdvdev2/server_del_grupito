@@ -356,6 +356,11 @@ hash = "90f8d140be45787ddb039f62015362d54ead182ef6c40761067db709e1d349be"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "8f554f10f3ca26505c1f51871263a7d75fca1e07a288c60c1a96b18f830beede"
+metafile = true
+
+[[files]]
 file = "mods/mutant-monsters.pw.toml"
 hash = "2ab624767380e3951271e8a6d6fb29750539f382df7a46641bc844aeff0cdde7"
 metafile = true
@@ -503,6 +508,11 @@ metafile = true
 [[files]]
 file = "mods/terrestria.pw.toml"
 hash = "fa663092e3fcbc6aae3ddfc4cef55ed5acb4e4111527e4e692ca462dfde5a1cd"
+metafile = true
+
+[[files]]
+file = "mods/the-tube.pw.toml"
+hash = "0db432c02731d82a1a7ec69f7b3bee6ef2e861268e23d8d22ee405b55ed3bd7f"
 metafile = true
 
 [[files]]
