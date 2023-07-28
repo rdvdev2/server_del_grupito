@@ -266,6 +266,11 @@ hash = "2b6969305cf06523684d31043844f1c8f147a875c899bfbc1097e60468f274d7"
 metafile = true
 
 [[files]]
+file = "mods/inventory-sorting.pw.toml"
+hash = "9ec7fac40bbe6f5e496993422b10b9df982cbf9ad5f8631f1070476cbf20b5fe"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "af3675c9022d8669af5486c58fa9a685189a579a772a4c2ea5705bbe29bb169d"
 metafile = true
