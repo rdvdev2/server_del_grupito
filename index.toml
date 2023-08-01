@@ -141,6 +141,11 @@ hash = "9b995af454d8e7458cb2862c25f2e8c75f623aacaad97a6e810d3b9d12024394"
 metafile = true
 
 [[files]]
+file = "mods/cleancut.pw.toml"
+hash = "c668d8fb98ddd31f5cbdf6dcda2e8380ca4cc0e6977bcc392a4e97bfc13e1969"
+metafile = true
+
+[[files]]
 file = "mods/configured-fabric.pw.toml"
 hash = "769481536dccb0e770ab7ec217142e3c3c3bc16c55bc4d35ddd14f41eeb85aca"
 metafile = true
