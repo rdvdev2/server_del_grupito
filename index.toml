@@ -291,31 +291,6 @@ hash = "af3675c9022d8669af5486c58fa9a685189a579a772a4c2ea5705bbe29bb169d"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "3e4fe0bb6818e59ae0d8dff4cc58ab8b9bd8eef76c1a60fadc3a2a3fcb7d7036"
-metafile = true
-
-[[files]]
-file = "mods/jeitweaker.pw.toml"
-hash = "1f60cfdfa034c5e86512e1c1df9da65c124f158cb10f02a7bcfc985ee9482a01"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
-hash = "b7ff24cd1366c9c2daca2dcbf377a6419ac78cd0bcfab17ea82d9900731b137e"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-professions-jep.pw.toml"
-hash = "083d00bbaaa3bd277f1e829f13144398eae81d9cd0351dd54310477cff389005"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-resources-jer.pw.toml"
-hash = "4cf82498772f32b8957d940145ff1950832f9774b0865ac05edbf2ec300b8131"
-metafile = true
-
-[[files]]
 file = "mods/krypton.pw.toml"
 hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 metafile = true
@@ -461,6 +436,11 @@ hash = "b0da1f56d9d037a5edb8b837bbf5a7dafb7679f42a9a2bd7865bbb2d4fad57b1"
 metafile = true
 
 [[files]]
+file = "mods/rei.pw.toml"
+hash = "968dfd85b79d8c3efd84f291dfaef6401fef5c144e37189a7872e294c290c25a"
+metafile = true
+
+[[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
 hash = "b5bb732948dcabfbb3727d124aa0f2b846bc0b883d98476c96d4badb757a048d"
 metafile = true
@@ -473,6 +453,26 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "83a54931f4be77baa4a32bfb3f2b343d8d2af2efaa0aa6cf83e9a9d682cf4298"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-loot-tables.pw.toml"
+hash = "d6696013c9c6bafa947b8e998124080bb41c97fe89d1c91098ca1dbec3350e37"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-professions-rep.pw.toml"
+hash = "7f67f250f1ac5f71b62d9682db7e99fc1652271ad574dce12a295ab148cc8e2c"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-trades.pw.toml"
+hash = "253d24d518bf1c952361a25e91d1c80d0c30f83a47c8a94a05bdf8d51a6e97a9"
+metafile = true
+
+[[files]]
+file = "mods/roughly-searchable.pw.toml"
+hash = "c9f8c764916df95c23fa7fa09738078d275d31f435f9e7a19e2b4b07952f9b58"
 metafile = true
 
 [[files]]
