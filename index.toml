@@ -127,12 +127,12 @@ metafile = true
 
 [[files]]
 file = "mods/brewin-and-chewin-fabric.pw.toml"
-hash = "ca473538451f5ed27fa458aa315edbd33c1c5bee9cb53df7173b0592d1da6f41"
+hash = "27b7c999f3dd629452ebb65ba5591471074c4a4dfd4f45edbe4c2450dc83be95"
 metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "cfb44d460e7c0aca9baa41b29eb5d9cc92ae9ddaef5184e699c904965fb34ffe"
+hash = "8be3aee474f2d2b7cde36b9253f0653d183d7d31e63239b5d28108425d0f394d"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "203740ff19cf266a11de353bc338b7eb93863574e136ea61f99f49785b297cf8"
+hash = "cfa6c8fff15836ffd2d01b03b06003304a13b78c293d04937e52176d32fe44b1"
 metafile = true
 
 [[files]]
@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-knives.pw.toml"
-hash = "3227076500fcb4b964d1fc1e1718151b5890b167977168aba98d49ddf895b897"
+hash = "fb053efdff2f359aa873cf59b306d82f784943cfbc597f9b8a70dd91e8ac2855"
 metafile = true
 
 [[files]]
@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "c2a8b25f470c02d5d9ad18e319556ba5fb8b717a53a3eaf4fafa182c6db07f4f"
+hash = "10155663ef19e8f4b8e46d60b57339e4a8bcc7b12e7f4e23027edd74710dbfd2"
 metafile = true
 
 [[files]]
@@ -562,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "815703456e3e75b6be85b1e863e7102186f9354b12d940402aaaa6381302ff84"
+hash = "376f48eba0e3a891bef6a877182a8a52d659c785894ab5d5440d1024ba62d952"
 metafile = true
 
 [[files]]
