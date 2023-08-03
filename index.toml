@@ -186,11 +186,6 @@ hash = "2e281465a7988a444ae0c03da2480eb6e26f56e2151ad69a055a9f11f5213ffa"
 metafile = true
 
 [[files]]
-file = "mods/dynmap.pw.toml"
-hash = "eb35c70ada5c900c360c5f3e895553f2543a363d8bbfc92feac7ec283fd6203a"
-metafile = true
-
-[[files]]
 file = "mods/editsign.pw.toml"
 hash = "77c7376b7c419934749cb7d7cc4821020cdbfbe96dba003505bd71ad18d76578"
 metafile = true
