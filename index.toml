@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
-hash = "ee9ec8acfb96b060f3caae3172651436f8388c39db630ba9a7112b8d0f290746"
+hash = "e7fec92e06e88e8e596a79d1157bd142a89d64524c930023e863e8984b1607df"
 metafile = true
 
 [[files]]
@@ -231,8 +231,8 @@ hash = "3a68d8f694877589b9d29bd7b44b590a123007f28142d0deed1ba34c9b90b51c"
 metafile = true
 
 [[files]]
-file = "mods/friends-and-foes-quilt.pw.toml"
-hash = "186208fde5fad57e5b7ca16f3301e05f16380509d86a5bac1419c6a690232ecf"
+file = "mods/friends-and-foes.pw.toml"
+hash = "220b3eb8698bb97209b88f5f85f28b467b94524ae0680f7f1b0f681718035382"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "a31d322db7fc41eeb9ce86c63d5a048c334c929b6e586eefe56565cb43c3056c"
+hash = "72b3ed45f236d4528817b4022ba711bb8379dc39b5901b6dec7ae88e01d8c52b"
 metafile = true
 
 [[files]]
@@ -442,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "b5bb732948dcabfbb3727d124aa0f2b846bc0b883d98476c96d4badb757a048d"
+hash = "72a369066ded78fdf4592fa4643b9fc642230cc0b733eab8c03b733286216900"
 metafile = true
 
 [[files]]
@@ -507,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "4d38f595922ec84bc874ad6d18b03a99f7f6a2d3c98e6a579c620d7079fe0ad5"
+hash = "aeee4a794e0c9299b7cce2ff085714afd46c5d2f0f9d0584a483d84891f4bd1c"
 metafile = true
 
 [[files]]
